@@ -27,5 +27,6 @@ npm install
 npm run watch
 ```
 
-Application will start on http://localhost:8000.
-Postman Collection exist is available in source repository.
+- Application will start on http://localhost:8000.
+- Postman Collection exist is available in source repository.
+
