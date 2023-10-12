@@ -1,5 +1,4 @@
 # URL-Shortener
-
 URL-Shortener is a sample application for creating short urls.  
 
 ## 💻 Tech Stack
