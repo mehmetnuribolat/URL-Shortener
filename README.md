@@ -30,3 +30,15 @@ npm run watch
 - Application will start on http://localhost:8000.
 - Postman Collection is available in source repository.
 
+### Resources
+- [GS1 - How to calculate a check digit manually](https://www.gs1.org/services/how-calculate-check-digit-manually)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/mehmetnuribolat/URL-Shortener/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
