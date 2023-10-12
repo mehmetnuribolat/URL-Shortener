@@ -1,2 +1,2 @@
 # URL-Shortener
- Url Shortener Application using NodeJs, Express, Mongo
+ Url Shortener Application using NodeJs, Express, MongoDB
