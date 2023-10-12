@@ -34,7 +34,7 @@ npm run watch
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/mehmetnuribolat/URL-Shortener/issues).
 
-## Show your support
+## :pray: Show your support
 
 Give a ⭐️ if this project helped you!
 
