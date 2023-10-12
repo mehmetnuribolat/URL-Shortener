@@ -38,3 +38,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+## 📝 License
+
+This project is under [MIT](https://github.com/mehmetnuribolat/URL-Shortener/blob/main/LICENSE) license.
+
