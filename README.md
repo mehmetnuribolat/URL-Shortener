@@ -13,7 +13,7 @@ URL-Shortener is a sample application for creating short urls.
 
 ## ⌨️ Development
 
-First, you need to set a MongoDB connection string for `MONGODB_URI` in `.env`.
+First, you need to set a MongoDB connection string for `MONGO_DB_URI` in `.env`.
 
 Install dependencies:
 
