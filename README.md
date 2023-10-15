@@ -1,6 +1,8 @@
 # URL-Shortener
 URL-Shortener is a sample application for creating short urls.  
 
+![nodejs-express-typescript-mongo](https://github.com/mehmetnuribolat/URL-Shortener/assets/145845943/bf57a116-3110-4b17-a48e-217df710aa3d)
+
 ## 💻 Tech Stack
 
 - Environment: [Node.js](https://nodejs.org/)
